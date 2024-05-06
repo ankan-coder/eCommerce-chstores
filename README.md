@@ -23,7 +23,7 @@ Welcome to CHStores, your go-to destination for all your online shopping needs. 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your_username/chstores.git
+   git clone https://github.com/ankan-coder/chstores.git
    ```
 
 2. **Database Setup**:
@@ -48,46 +48,3 @@ Welcome to CHStores, your go-to destination for all your online shopping needs. 
    - Log in with your credentials to access the full features.
    - Start exploring the product catalog, add items to your cart, and proceed to checkout.
    - Log out securely when you're done shopping.
-
-## File Structure
-
-```plaintext
-chstores/
-│
-├── Database/
-│   └── chstores.sql
-│
-├── css/
-│   └── [CSS files]
-│
-├── img/
-│   └── [Image files]
-│
-├── js/
-│   └── [JavaScript files]
-│
-├── php/
-│   ├── config.php
-│   ├── login.php
-│   ├── logout.php
-│   ├── signup.php
-│   └── [Other PHP files]
-│
-├── uploads/
-│   └── [Uploaded files]
-│
-├── index.php
-├── login.php
-├── signup.php
-├── cart.php
-├── checkout.php
-├── order.php
-└── profile.php
-```
-
-## Contributors
-
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
-
-Thank you for choosing CHStores for your online shopping needs. If you have any questions or feedback, feel free to reach out to us. Happy shopping!
